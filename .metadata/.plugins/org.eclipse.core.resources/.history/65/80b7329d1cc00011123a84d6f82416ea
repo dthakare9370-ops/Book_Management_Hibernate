@@ -1,0 +1,25 @@
+package Dao;
+
+import org.hibernate.SessionFactory;
+
+import hibernateCon.HibernateConfig;
+
+import entity.User;
+
+public class UserDao {
+	
+	SessionFactory factory = HibernateConfig.getSessionFactory();
+	
+	public void save() {
+		User user= new User();
+		user.setId(1);
+		user.setName("Ganesh");
+	}
+	
+	public static void main(String args[]) {
+		
+		
+	}
+	
+	
+}

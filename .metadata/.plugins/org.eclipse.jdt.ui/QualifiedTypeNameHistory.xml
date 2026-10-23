@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.hibernate.id.Configurable"/>
+    <fullyQualifiedTypeName name="hibernate.HibernateConfig"/>
+    <fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
+    <fullyQualifiedTypeName name="org.hibernate.Hibernate"/>
+    <fullyQualifiedTypeName name="hibernateCon.HibernateConfig"/>
+    <fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Column"/>
+    <fullyQualifiedTypeName name="entity.User"/>
+    <fullyQualifiedTypeName name="java.lang.SecurityException"/>
+    <fullyQualifiedTypeName name="org.hibernate.Session"/>
+    <fullyQualifiedTypeName name="org.hibernate.Transaction"/>
+</qualifiedTypeNameHistroy>

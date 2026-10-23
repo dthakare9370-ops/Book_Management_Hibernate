@@ -1,0 +1,16 @@
+public class HibernateConfig {
+
+    private static SessionFactory factory;
+
+    public static SessionFactory getSessionFactory() {
+
+        if (factory == null) {
+            Configuration cfg = new Configuration();
+            cfg.configure();
+
+            factory = cfg.buildSessionFactory();
+        }
+
+        return factory;
+    }
+}

@@ -1,0 +1,12 @@
+package Dao;
+
+import hibernate.HibernateConfig;
+
+public class UserDao {
+	
+	
+	
+	public void save() {
+		
+	}
+}

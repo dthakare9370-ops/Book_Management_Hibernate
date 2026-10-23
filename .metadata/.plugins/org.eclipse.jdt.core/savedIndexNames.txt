@@ -1,0 +1,20 @@
+INDEX VERSION 1.134+D:\JAVA_eclipse\Hibernate\Book_Hibernate_2\.metadata\.plugins\org.eclipse.jdt.core
+3999771388.index
+110026044.index
+1828026965.index
+1150881797.index
+4113378005.index
+3413725848.index
+3631780513.index
+2291210908.index
+3034385410.index
+2379920992.index
+158410441.index
+3927790783.index
+1865797976.index
+3320496673.index
+746338553.index
+2410491672.index
+3913571503.index
+1676053585.index
+4168874018.index

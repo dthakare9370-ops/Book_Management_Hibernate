@@ -1,0 +1,19 @@
+2026-10-04 17:12:06.762: [INFO] CurrentProfilePath: D:\JAVA_eclipse\Hibernate\Book_Hibernate_2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-04 17:12:06.762: [INFO] Profiles total count: 1
+2026-10-04 17:12:06.762: [INFO] Profile: name=Profile 1 path=D:\JAVA_eclipse\Hibernate\Book_Hibernate_2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-10-04 17:12:06.762: [INFO] LastUsedProfileDir: D:\JAVA_eclipse\Hibernate\Book_Hibernate_2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-04 17:12:06.762: [INFO] OnDoneLoading sync enabled: 0
+2026-10-04 17:12:06.762: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-04 17:12:06.762: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-04 17:12:06.762: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-04 17:12:30.846: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-04 17:12:32.355: [INFO] CurrentProfilePath: D:\JAVA_eclipse\Hibernate\Book_Hibernate_2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-04 17:12:32.355: [INFO] Profiles total count: 1
+2026-10-04 17:12:32.355: [INFO] Profile: name=Profile 1 path=D:\JAVA_eclipse\Hibernate\Book_Hibernate_2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-04T17:12:07.606Z
+2026-10-04 17:12:32.355: [INFO] LastUsedProfileDir: D:\JAVA_eclipse\Hibernate\Book_Hibernate_2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-04 17:12:32.355: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\JAVA_eclipse\Hibernate\Book_Hibernate_2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-04T17:12:07.606Z
+2026-10-04 17:12:32.355: [INFO] OnDoneLoading sync enabled: 0
+2026-10-04 17:12:32.355: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-04 17:12:32.355: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-04 17:12:32.355: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-04 18:28:56.925: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

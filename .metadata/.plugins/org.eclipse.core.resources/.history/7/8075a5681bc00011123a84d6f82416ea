@@ -1,0 +1,5 @@
+package hibernateCon;
+
+public class HibernateConfig {
+
+}

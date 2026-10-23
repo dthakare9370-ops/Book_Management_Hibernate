@@ -1,0 +1,10 @@
+package Dao;
+
+public class UserDao {
+	
+	SessionFactory factory = HibernateConfig.getSessionFactory();
+	
+	public void save() {
+		
+	}
+}

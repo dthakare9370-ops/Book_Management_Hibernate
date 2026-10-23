@@ -1,0 +1,13 @@
+package Dao;
+
+import org.hibernate.Hibernate;
+import org.hibernate.SessionFactory;
+
+public class UserDao {
+	
+	SessionFactory factory = Hibernate.getSessionFactory();
+	
+	public void save() {
+		
+	}
+}

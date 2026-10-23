@@ -1,0 +1,17 @@
+package hibernate;
+
+import org.hibernate.cfg.Configuration;
+
+public class HibernateConfig {
+	
+	
+	void getSessionFactory() {
+		
+		Configuration cfg = new Configuration();
+		
+		//read Configuration 
+		
+		cfg.configure();
+		
+	}
+}
